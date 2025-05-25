@@ -1,4 +1,4 @@
-# %%
+
 #Step 1: Importing the necessary libraries and reading the Excel file
 import pandas as pd
 df = pd.read_excel(r"C:\Users\ferna\PROJECTS\Online Retail Analysis\Online Retail.xlsx", sheet_name="Online Retail")
